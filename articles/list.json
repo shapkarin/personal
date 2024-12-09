@@ -1,5 +1,10 @@
 [
   {
+    "slug": "design",
+    "title": "design",
+    "path": "/home/runner/work/shapkarin.me/shapkarin.me/public/articles/design.md"
+  },
+  {
     "slug": "extend-routines",
     "title": "extend routines",
     "path": "/home/runner/work/shapkarin.me/shapkarin.me/public/articles/extend-routines.md"
@@ -13,5 +18,10 @@
     "slug": "saga-fetch",
     "title": "saga fetch",
     "path": "/home/runner/work/shapkarin.me/shapkarin.me/public/articles/saga-fetch.md"
+  },
+  {
+    "slug": "wagmi-ethers",
+    "title": "wagmi ethers",
+    "path": "/home/runner/work/shapkarin.me/shapkarin.me/public/articles/wagmi-ethers.md"
   }
 ]
